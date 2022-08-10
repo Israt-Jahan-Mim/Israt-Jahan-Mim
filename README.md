@@ -4,7 +4,7 @@
 
 To utilize my talents and experience to good use in order to help the organization achieve its goals while also learning new things and expanding my professional network. Using my technical knowledge' skill' and experience' I want to come up with innovative ideas to improve something or create something new.
 
-Skills:  JAVA / Android Studio / HTML / CSS  
+Skills:  JAVA / Android Studio / Firebase / Mysql /  Illustrator HTML / CSS  
 
 - 🔭 I’m currently working on this page. 
 
