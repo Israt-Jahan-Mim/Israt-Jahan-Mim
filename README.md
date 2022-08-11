@@ -7,7 +7,7 @@ Welcome to my GitHub profile. To utilize my talents and experience to good use i
 
 Skills: JAVA / Android Studio / Firebase / Mysql /  Illustrator / HTML / CSS
 
-- 🔭 I’m currently working on this page. 
+ 
 - 🌱 I’m currently learning JAVA, Android Studio 
 - 💬 Ask me about https://www.linkedin.com/in/israt-jahan-84m96/ 
 - 📫 How to reach me: isratjahan8496@gmail.com 
