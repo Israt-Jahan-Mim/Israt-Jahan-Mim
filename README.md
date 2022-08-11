@@ -1,30 +1,19 @@
-![I am Israt-Jahan-Mim](https://github.com/Israt-Jahan-Mim/Israt-Jahan-Mim/blob/main/GitHub.png)
+### Hi there 👋, Hey, I am Israt Jahan
+#### Android Application Developer
+![Android Application Developer](https://github.com/Israt-Jahan-Mim/Israt-Jahan-Mim/blob/main/GitHub.png)
 
-
-<h1 align="center">Hi 👋, I'm Israt Jahan</h1>
-<h3 align="center">Android Application Developer</h3>
-
-![Profile views](https://gpvc.arturio.dev/Israt-Jahan-Mim) 
 
 Welcome to my GitHub profile. To utilize my talents and experience to good use in order to help the organization achieve its goals while also learning new things and expanding my professional network. Using my technical knowledge' skill' and experience' I want to come up with innovative ideas to improve something or create something new.
 
-Skills: JAVA / Android Studio / Firebase / Mysql /  Illustrator / HTML / CSS 
- 
+Skills: JAVA / Android Studio / Firebase / Mysql /  Illustrator / HTML / CSS
+
+- 🔭 I’m currently working on this page. 
+- 🌱 I’m currently learning JAVA, Android Studio 
+- 💬 Ask me about https://www.linkedin.com/in/israt-jahan-84m96/ 
+- 📫 How to reach me: isratjahan8496@gmail.com 
 
 
-- 🌱 I’m currently learning **JAVA, Android Studio**
-
-- 📫 How to reach me **isratjahan8496@gmail.com**
-
-- 📄 All About Me:(https://www.linkedin.com/in/israt-jahan-84m96/)
-
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-<a href="https://www.oracle.com/tools/technologies/netbeans-ide.html" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
-<a href="https://developer.android.com/studio?gclid=CjwKCAjw0dKXBhBPEiwA2bmObWNdtOdqB9UX8JrXGXiSDQUEOjLJS_TRcqxilR_yAsTKzLnGP_VKyRoCfSsQAvD_BwE&gclsrc=aw.ds"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
-</p>
-
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Israt-Jahan-Mim)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/israt-jahan-84m96//)  
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Israt-Jahan-Mim)](https://github.com/anuraghazra/github-readme-stats)
 
@@ -32,4 +21,6 @@ Skills: JAVA / Android Studio / Firebase / Mysql /  Illustrator / HTML / CSS
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Israt-Jahan-Mim)  
 
- 
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Israt-Jahan-Mim)  
+
+![Profile views](https://gpvc.arturio.dev/Israt-Jahan-Mim)  
