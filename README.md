@@ -1,6 +1,6 @@
 ### Hi there 👋, Hey, I am Israt Jahan
 #### SQA | Mobile Application
-![Android Application Developer](https://github.com/Israt-Jahan-Mim/Israt-Jahan-Mim/blob/main/GitHub.png)
+
 
 
 Welcome to my GitHub profile. To utilize my talents and experience to good use in order to help the organization achieve its goals while also learning new things and expanding my professional network. Using my technical knowledge' skill' and experience' I want to come up with innovative ideas to improve something or create something new.
