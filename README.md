@@ -1,14 +1,14 @@
 ### Hi there 👋, Hey, I am Israt Jahan
-#### Android Application Developer
+#### SQA | Mobile Application
 ![Android Application Developer](https://github.com/Israt-Jahan-Mim/Israt-Jahan-Mim/blob/main/GitHub.png)
 
 
 Welcome to my GitHub profile. To utilize my talents and experience to good use in order to help the organization achieve its goals while also learning new things and expanding my professional network. Using my technical knowledge' skill' and experience' I want to come up with innovative ideas to improve something or create something new.
 
-Skills: JAVA / Android Studio / Firebase / Mysql /  Illustrator / HTML / CSS
+Skills: SQA / JAVA / Android Studio / Firebase / Mysql /  Illustrator / HTML / CSS
 
  
-- 🌱 I’m currently learning JAVA, Android Studio 
+- 🌱 I’m currently learning SQA, JAVA, Android Studio 
 - 💬 Ask me about https://www.linkedin.com/in/israt-jahan-84m96/ 
 - 📫 How to reach me: isratjahan8496@gmail.com 
 
