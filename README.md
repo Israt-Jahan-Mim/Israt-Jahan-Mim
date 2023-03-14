@@ -8,7 +8,7 @@ Welcome to my GitHub profile. To utilize my talents and experience to good use i
 Skills: SQA / JAVA / Android Studio / Firebase / Mysql /  Illustrator / HTML / CSS
 
  
-- 🌱 I’m currently learning SQA, JAVA, Android Studio 
+- 🌱 I’m currently learning SQA and Cyber Security Course at IT Training BD 
 - 💬 Ask me about https://www.linkedin.com/in/israt-jahan-84m96/ 
 - 📫 How to reach me: isratjahan8496@gmail.com 
 
