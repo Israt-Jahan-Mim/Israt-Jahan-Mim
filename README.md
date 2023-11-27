@@ -1,5 +1,6 @@
-### Hi there 👋, Hey, I am Israt Jahan
-# SQA | Mobile Application
+### Hi there 👋
+# I am Israt Jahan Mim
+## SQA | Mobile Application
 
 
 
