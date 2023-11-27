@@ -5,7 +5,7 @@
 
 Welcome to my GitHub profile. To utilize my talents and experience to good use in order to help the organization achieve its goals while also learning new things and expanding my professional network. Using my technical knowledge' skill' and experience' I want to come up with innovative ideas to improve something or create something new.
 
-# Skills: SQA / Manual Testing / Automation Testing / JAVA / Android Studio / Firebase / Mysql /  Illustrator / HTML / CSS
+##### Skills: SQA / Manual Testing / Automation Testing / JAVA / Android Studio / Firebase / Mysql /  Illustrator / HTML / CSS
 
  
 - 🌱 I’m currently learning SQA and Cyber Security Course at IT Training BD 
