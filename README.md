@@ -1,6 +1,6 @@
 ### Hi there 👋
 # I am Israt Jahan Mim
-## SQA || Manual Testing || Automation Testing || Mobile Application Development 
+### SQA || Manual Testing || Automation Testing || Mobile Application Development 
 
 
 
