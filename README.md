@@ -1,6 +1,6 @@
 ### Hi there 👋
 # I am Israt Jahan Mim
-## SQA || Manual Testing || Automation Testing || Mobile Application
+## SQA || Manual Testing || Functional Testing || API Testing: Postman & Newman || Performance Testing: JMeter || Database Testing || Test Case Writing || JAVA || Mobile Application Development
 
 
 
